@@ -1,7 +1,8 @@
 {
   "version": "3.2.0",
   "notes": "Mejoras de estabilidad en combos y UI.",
-  "installer_url": "sha256:61d86198d4c198e094198bf2915cce8389d3772ef83786a8b3731760c2908864",
+  "installer_url": "https://github.com/kevinesc22/kestroll-updates/releases/tag/v3.1.0",
   "installer_sha256": ""
 }
+
 
